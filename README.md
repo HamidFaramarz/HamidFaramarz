@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamid Faramarz
-- 👀 I’m interested in Machine Leaning, Deep Learning Particularly Computer Vision. In addition, I Love [Web Development, Mobile App].
-- 🌱 I’m currently studying final semester in computer science at Kabul University.
+- 👀 I Love Mobile Development Particularly Flutter. In addition, I Interested in [Machine Learning and Deep Learning ].
+- 🌱 I’m currently Working as Flutter Developer at https://www.codingrah.com/ , beside i am enhacing my expertise in this domain.
 
 <!---
 HamidFaramarz/HamidFaramarz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
